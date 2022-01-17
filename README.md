@@ -1,4 +1,4 @@
-# ELEC_20_-AKATSUKI-
+# 3D Scanner using Triangulation Method-
 3D SCANNER
 
 # who will use my invention -
